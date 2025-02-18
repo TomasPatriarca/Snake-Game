@@ -1,6 +1,9 @@
 # 🐍 Juego de Snake
 ¡Bienvenido al clásico juego de Snake! Este proyecto es una implementación del famoso juego Snake utilizando HTML, CSS y JavaScript.
 
+# 📷 Captura de pantalla
+![SNAKE](https://github.com/user-attachments/assets/30091bc5-8af0-4f06-9d2a-577bbc3b46f7)
+
 # 🎮 Cómo jugar
 Usa las teclas de dirección (↑, ↓, ←, →) para mover la serpiente.
 
